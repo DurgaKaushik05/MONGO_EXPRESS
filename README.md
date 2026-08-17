@@ -198,8 +198,8 @@ Method Override
 JavaScript event handling
 Connecting frontend with backend
 Working with Git and GitHub
-🚀 Future Improvements
 
+🚀 Future Improvements
 Some possible improvements are:
 
 Add user authentication
